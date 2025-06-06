@@ -35,12 +35,12 @@ const config: Config = {
   url: 'https://aleatoricsolutions.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/altc-public-docs/',
+  baseUrl: '/altc-docs-site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Aleatoric Solutions', // Usually your GitHub org/user name.
-  projectName: 'altc-public-docs', // Usually your repo name.
+  projectName: 'altc-docs-site', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
